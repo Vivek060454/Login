@@ -102,7 +102,7 @@ class SplashScreenState extends State<MyHomePage> {
         child: Center(
           child: Padding(
             padding: const EdgeInsets.all(15.0),
-            child: Text('Rarecrew',textAlign:TextAlign.center,style: TextStyle(fontSize: 30,color: Colors.white,fontWeight: FontWeight.w500),),
+            child: Text('SAHAYOG',textAlign:TextAlign.center,style: TextStyle(fontSize: 30,color: Colors.white,fontWeight: FontWeight.w500),),
           ),
         ),
       ),
